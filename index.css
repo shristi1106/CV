@@ -1,0 +1,27 @@
+.name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.intro{
+  font-weight:500;  
+}
+.image{
+    border-radius: 50%;
+}
+body{
+    background-color: peachpuff;
+}
+.github, .linkedin{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+}
+.projHead{
+    text-decoration: none;
+}
+.certificate{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
